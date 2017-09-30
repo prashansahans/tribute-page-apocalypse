@@ -1,0 +1,50 @@
+h1{
+    text-align: center;
+    font-size: 100px;
+    color: black;
+}
+
+body{
+    background-color: antiquewhite;
+}
+img{
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    border-radius: 50px;
+}
+figcaption{
+    font-size: 41px;
+    text-align: center;
+    padding-top: 25px;
+    color: grey;
+}
+#p1{
+    font-size: 18px;
+    column-count: 2;
+    padding: 10px 10px;
+    column-gap: 55px;
+}
+div{
+    font-size: 18px;
+    font-family: sans-serif;
+    text-align: center;
+    padding-bottom: 20px;
+    
+}
+#last{
+    font-size: 18px;
+    text-align: left;
+    float: left;
+    column-count: 2;
+    column-gap: 55px;
+    font-family: 'Lora', serif;
+    padding-left: 20px;
+}
+#last2{
+    padding-top: 20px;
+    padding-right: 20px;
+}
+blockquote{
+    font-size: 30px;
+}
